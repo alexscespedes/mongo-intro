@@ -1,0 +1,5 @@
+use("sample_training")
+
+// sort = 1 --> ASC || = 0 --> DESC
+
+db.zips.find()
